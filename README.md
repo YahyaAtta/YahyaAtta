@@ -2,6 +2,11 @@
 # Peace be Upon and Allah Mercy and blessings
 ## I'am Yahya Atta
 ### Learning Flutter Developer
+class Yahya Atta extends Developer {
+String location = "Sudan(SD)" ;
+String role = "Learning Flutter Developer" ; 
+List<String> skills = ["Flutter" , "Dart","HTTP & Dio" , "Firebase Auth ,Firestore , Storage" , "Getx State Managment" , "Provider State Managment"] ; 
+}
 <!--
 **YahyaAtta/YahyaAtta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
