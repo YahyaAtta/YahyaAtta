@@ -1,14 +1,15 @@
 ## About Me
 # Peace be Upon and Allah Mercy and blessings
 ## I'am Yahya Atta
-### Learning Flutter Developer
+### building strong foundations in programming and problem-solving
 class Yahya Atta extends Developer {
 String location = "Sudan(SD)" ;
 String role = "Learning Flutter Developer" ; 
+String distracted = "Previously distracted by various languages like Dart, Flutter";
 List<String> skills = ["Flutter" , "Dart","HTTP & Dio" , "Firebase Auth ,Firestore , Storage" , "Getx State Managment" , "Provider State Managment" , "Restful Api"] ; 
 String hobby = "Exciting  and Passionate to Learning New Things" ; 
 }
-I am Currently Beginning To Building Strong Steps From Programming From Zero
+I am Currently Beginning To Building Strong Steps From Programming From Zero to return Mobile Development Again Strongly
 <!--
 **YahyaAtta/YahyaAtta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
