@@ -6,15 +6,18 @@
 
 class YahyaAtta extends Developer {
   String location  = "Sudan (SD)";
-  String role      = "Learning Flutter Developer"; 
-  String journey   = "Refocusing on core fundamentals to eliminate past tech-stack shifting";
+  String current   = "Building strong programming foundations and core concepts from zero"; 
+  String background = "Built several Flutter & Dart projects (Check them out below!)";
   
-  List<String> skills = [
-    "Dart", "Flutter", "HTTP & Dio", "Restful API",
+  // Taking a step back to master the fundamentals for a much stronger return
+  List<String> skillsWithFlutter = [
+    "Dart", "Flutter", "HTTP & Dio", "Restful API", 
     "Firebase Auth", "Firestore", "Storage", 
     "GetX State Management", "Provider State Management"
   ]; 
   
   String hobby     = "Excited and passionate about learning new things"; 
 }
-I am currently building a rock-solid foundation in programming from zero, aiming for a powerful return to mobile development.
+```
+
+I have already built functional apps using Flutter. However, I am currently reinforcing my knowledge by mastering programming fundamentals from scratch to ensure an even more powerful return to mobile development.
