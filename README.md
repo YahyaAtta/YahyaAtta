@@ -14,7 +14,7 @@ class YahyaAtta extends Developer {
   List<String> skillsWithFlutter = [
     "Dart", "Flutter", "HTTP & Dio", "Restful API", 
     "Firebase Auth", "Firestore", "Storage", 
-    "GetX State Management", "Provider State Management"
+    "GetX State Management", "Provider State Management" , "JSON" , "PHP Basics For Building Restful API"
   ]; 
   
   String hobby      = "Excited and passionate about learning new things"; 
