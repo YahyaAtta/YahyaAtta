@@ -20,5 +20,5 @@ class YahyaAtta extends Developer {
   String hobby      = "Excited and passionate about learning new things"; 
 }
 ```
-I have already built functional apps using Flutter. However, I am currently reinforcing my knowledge by mastering programming fundamentals from scratch to ensure an even more powerful return to mobile development.
+I have already built functional apps using Flutter and also in VB.NET . However, I am currently reinforcing my knowledge by mastering programming fundamentals from scratch to ensure an even more powerful return to mobile development.
 
