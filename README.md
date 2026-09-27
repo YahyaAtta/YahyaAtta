@@ -14,11 +14,11 @@ class YahyaAtta extends Developer {
   List<String> skillsWithFlutter = [
     "VB.NET(Visual Basic)" , "Dart", "Flutter", "HTTP & Dio", "Restful API", 
     "Firebase Auth", "Firestore", "Storage", 
-    "GetX State Management", "Provider State Management" , "JSON" , "PHP Basics For Building Restful API"
+    "GetX State Management", "Provider State Management" , "JSON" , "PHP(Basics Restful APIs)"
   ]; 
   
-  String hobby      = "Excited and passionate about learning new things"; 
+  String hobby      = "Enthusiastic about Learning Core Fundamental Programming"; 
 }
 ```
-I have already built functional apps using Flutter and also in VB.NET . However, I am currently reinforcing my knowledge by mastering programming fundamentals from scratch to ensure an even more powerful return to mobile development.
+I have already built functional applications using Flutter and VB.NET. However, I am currently reinforcing my knowledge by mastering programming fundamentals from scratch to ensure an even more powerful return to mobile development.
 
