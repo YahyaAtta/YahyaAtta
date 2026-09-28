@@ -12,7 +12,7 @@ class YahyaAtta extends Developer {
   
   // Taking a step back to master the fundamentals for a much stronger return
   List<String> skillsWithFlutter = [
-    "VB.NET(Visual Basic)" , "Dart", "Flutter", "HTTP & Dio", "Restful API",  "SQL", "Firebase Auth", "Firestore", "Storage", "GetX State Management","Provider State Management" , "JSON" , "PHP(Basics Restful APIs)"
+    "VB.NET(Visual Basic)" , "Dart", "Flutter", "HTTP & Dio", "Restful API",  "SQL", "Firebase Auth", "Firebase Firestore", "Firebase Storage", "GetX State Management","Provider State Management" , "JSON" , "PHP(Basics Restful APIs)"
   ]; 
   
   String hobby      = "Enthusiastic about Learning Core Fundamental Programming"; 
