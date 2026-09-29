@@ -8,7 +8,7 @@
 class YahyaAtta extends Developer {
   String location   = "Sudan (SD)";
   String current    = "Building strong programming foundations and core concepts from zero"; 
-  String Previousbackground = "Built some VB.NET and Flutter & Dart projects";
+  String previousBackground = "Built some VB.NET and Flutter & Dart projects";
   
   // Taking a step back to master the fundamentals for a much stronger return
   List<String> skillsWithFlutterPreviously = [
