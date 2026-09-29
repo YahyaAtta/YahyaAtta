@@ -8,10 +8,10 @@
 class YahyaAtta extends Developer {
   String location   = "Sudan (SD)";
   String current    = "Building strong programming foundations and core concepts from zero"; 
-  String background = "Built some VB.NET and Flutter & Dart projects";
+  String Previousbackground = "Built some VB.NET and Flutter & Dart projects";
   
   // Taking a step back to master the fundamentals for a much stronger return
-  List<String> skillsWithFlutter = [
+  List<String> skillsWithFlutterPreviously = [
     "VB.NET(Visual Basic)" , "Dart", "Flutter", "HTTP & Dio", "Restful API",  "SQL", "Firebase Auth", "Firebase Firestore", "Firebase Storage", "GetX State Management","Provider State Management" , "JSON" , "PHP(Basics Restful APIs)"
   ]; 
   
