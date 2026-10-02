@@ -3,6 +3,7 @@
 
 ## I'm Yahya Atta
 ### Building strong foundations in programming and problem-solving
+Begin with Foundation C++ With Problem Solving and Algorithms
 
 ```dart
 class YahyaAtta extends Developer {
